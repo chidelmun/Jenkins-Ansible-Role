@@ -5,7 +5,6 @@
   vars:
      jenkins_home: /opt/jenkins
      jenkins_port: 8080
-     jenkins_host: 18.218.14.243
      ssl_cert: jenkins.cert
      ssl_key: jenkins.key
   roles:
